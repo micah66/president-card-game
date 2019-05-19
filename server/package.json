@@ -4,7 +4,7 @@
   "description": "President card game",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/micah66/president-card-game/issues"
   },
-  "homepage": "https://github.com/micah66/president-card-game#readme"
+  "homepage": "https://github.com/micah66/president-card-game#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
 }
