@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "President card game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micah66/president-card-game.git"
+  },
+  "author": "Micah Gordon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micah66/president-card-game/issues"
+  },
+  "homepage": "https://github.com/micah66/president-card-game#readme"
+}
